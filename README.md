@@ -1,5 +1,5 @@
 > [!NOTE]
-> Esto es un plantilla
+> Esto es un plantilla incompleta
 
 <img src="imagenes/imagen_brasil.webp"/>
 
@@ -18,10 +18,10 @@ Para ello, se utilizarán técnicas de limpieza de datos, análisis exploratorio
 El proyecto está organizado de la siguiente manera:
 
 ```bash
-├── datos/                # Conjuntos de datos crudos y procesados
-├── imagenes/             # Recursos para gráficos para el proyecto
-├── notebooks/            # Notebooks de Jupyter con el análisis de datos
-├── src/                  # Scripts para la limpieza, procesamiento y análisis
+├── datos/                # Conjuntos de datos sin procesar y ya procesados
+├── imagenes/             # Recursos gráficos para el proyecto
+├── notebooks/            # Notebooks con el contenido y análisis de datos
+├── src/                  # Scripts para la limpieza y procesamiento de los datos
 ├── README.md             # Descripción del proyecto
 ```
 
