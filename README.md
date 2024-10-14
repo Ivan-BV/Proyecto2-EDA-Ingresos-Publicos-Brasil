@@ -1,6 +1,3 @@
-> [!NOTE]
-> Esto es un plantilla incompleta
-
 <img src="imagenes/imagen_brasil.webp"/>
 
 # 📊 Proyecto 2: Análisis de la Ejecución de Ingresos Públicos en Brasil
